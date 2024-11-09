@@ -12,3 +12,9 @@ docs/
 
 # Dotenv file
 .env
+
+# Artifacts
+src/artifacts/
+
+# Libraries
+lib/
